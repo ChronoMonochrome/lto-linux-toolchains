@@ -1,0 +1,7 @@
+/* Generated automatically. */
+static const char configuration_arguments[] = "/media/ROM/chrono/kernel/ctng/.build/src/gcc-6.1.0/configure --build=x86_64-build_pc-linux-gnu --host=x86_64-build_pc-linux-gnu --target=arm-cortexa9_neon-linux-gnueabihf --prefix=/media/ROM/chrono/kernel/ctng/.build/arm-cortexa9_neon-linux-gnueabihf/buildtools --with-local-prefix=/home/chrono/x-tools/arm-cortexa9_neon-linux-gnueabihf/arm-cortexa9_neon-linux-gnueabihf/sysroot --with-sysroot=/home/chrono/x-tools/arm-cortexa9_neon-linux-gnueabihf/arm-cortexa9_neon-linux-gnueabihf/sysroot --enable-shared --with-cpu=cortex-a9 --with-fpu=neon --with-float=hard --with-pkgversion='crosstool-NG crosstool-ng-1.22.0-248-gdf5a341' --enable-__cxa_atexit --disable-libgomp --disable-libmudflap --disable-libmpx --disable-libssp --disable-libquadmath --disable-libquadmath-support --with-gmp=/media/ROM/chrono/kernel/ctng/.build/arm-cortexa9_neon-linux-gnueabihf/buildtools --with-mpfr=/media/ROM/chrono/kernel/ctng/.build/arm-cortexa9_neon-linux-gnueabihf/buildtools --with-mpc=/media/ROM/chrono/kernel/ctng/.build/arm-cortexa9_neon-linux-gnueabihf/buildtools --with-isl=/media/ROM/chrono/kernel/ctng/.build/arm-cortexa9_neon-linux-gnueabihf/buildtools --enable-lto --with-host-libstdcxx='-static-libgcc -Wl,-Bstatic,-lstdc++,-Bdynamic -lm' --disable-multilib --enable-languages=c";
+static const char thread_model[] = "posix";
+
+static const struct {
+  const char *name, *value;
+} configure_default_options[] = { { "cpu", "cortex-a9" }, { "float", "hard" }, { "fpu", "neon" }, { "tls", "gnu" } };
